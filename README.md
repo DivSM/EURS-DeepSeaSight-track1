@@ -12,7 +12,7 @@ repro.yaml       team / track / submission_id / contact
 METHOD.md        approach, training data, external data, non-standard inference details
 run.py           main(model_dir, input_dir, output_dir, device) - the required entry point
 src/             model code imported by run.py (SegNet, Restorer3, inference helpers)
-weights/         ACTION NEEDED - see weights/README.md: the trained checkpoints are not yet attached
-repro_check.py   the organizers' checker; run before submitting
+weights/         trained checkpoints attached
+repro_check.py   the organizers' checker
 docker/Dockerfile the organizers' base image
 ```
