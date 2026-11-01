@@ -1,0 +1,7 @@
+# The organizers rebuild this file from your factsheet and the leaderboard, so it only has to be valid here.
+team: DeepSeaSight               # exactly as registered on macvi.org (macvi.org user #2097)
+track: eurs-t1                    # eurs-t1 or eurs-t2
+submission_id: 19229              # best-scoring TESTING-PHASE submission in this track (composite 0.579)
+                                   # file: PNG_01_sharp_lo__seg_nocal.zip -- restoration "sharp_lo" (unsharp 0.2) + segmentation "seg_nocal" (equal-weight, uncalibrated ensemble)
+contact: divya9light@gmail.com    # TODO: replace if the team wants a different contact address monitored Oct 28-30
+hardware: 2x NVIDIA T4 (Kaggle)   # training/leaderboard hardware; run.py itself needs only one RTX-3090-class GPU

@@ -1,0 +1,11 @@
+# TODO (team action required): this is still the template placeholder.
+#
+# Replace `url` and `sha256` below with a real, public link to a .tar.gz (or .zip) archive containing exactly
+# these four files at its root: restorer_A.pt, restorer_B.pt, segnet_ft6.pt, segnet_frozen.pt
+# (see weights/README.md for how to produce them from the team's Kaggle training-notebook outputs).
+#
+# Accepted hosts: a direct link, a GitHub release asset, Hugging Face, Dropbox, or a Google Drive FILE link
+# shared with "anyone with the link". The organizers download it once, verify the hash, and unpack it into this
+# folder before running run.py; keep the link working at least until October 30, 2026.
+url: https://example.org/path/to/eurs_t1_weights.tar.gz
+sha256: 0000000000000000000000000000000000000000000000000000000000000000   # sha256sum of that archive
